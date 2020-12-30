@@ -6,9 +6,9 @@ var va
 var score=10
 var feed='well fed'
 function preload(){
-  d1=loadAnimation('images/dogImg.png')
-  d2=loadAnimation('images/dogImg1.png')
-  m1=loadImage('images/milk.png')
+  d1=loadAnimation('dogImg.png')
+  d2=loadAnimation('dogImg1.png')
+  m1=loadImage('milk.png')
 }
 
 function setup() {
